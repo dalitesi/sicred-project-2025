@@ -21,7 +21,7 @@ Para configurar o projeto em sua máquina local, siga estas etapas:
 
 1. Clone este repositório:
 
-   git clone https://gitlab.com/dalitesi/sicred-project.git
+   git clone https://github.com/dalitesi/sicred-project-2025
 
 2. Use o comando a seguir para atualizar as bibliotecas do seu projeto:
 
